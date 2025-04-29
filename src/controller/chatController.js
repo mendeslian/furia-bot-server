@@ -27,11 +27,11 @@ class ChatController {
         - Loja e collabs: Adidas, Champion, Zor, My Hero Academia (https://shop.furia.gg/).  
         - Parceiros: Cruzeiro do Sul; PokerStars; Red Bull; Hellmann's; Betnacional; Lenovo.  
         - Redes sociais:
-          • X: @FURIA  
+          • X: @furia  
           • Instagram: @furiagg  
-          • Facebook: /furiagg  
-          • Twitch: furiatv  
-          • YouTube: canal oficial.
+          • Facebook: FURIA 
+          • Twitch: FURIAtv  
+          • YouTube: @FURIAF.C.
       
       Histórico de Jogos/Campeonatos:
         - 2019: IEM Katowice (20-22) :contentReference[oaicite:0]{index=0}  
